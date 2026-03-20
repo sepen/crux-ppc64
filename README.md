@@ -26,7 +26,7 @@ This project focuses on a portable and consistent userland, built with a unified
 This release includes:
 
 - A prebuilt root filesystem: \
-  `crux-ppc64-3.8.rootfs.tar.xz` — a minimal CRUX base system for ppc64
+  `crux-3.8-ppc64.rootfs.tar.xz` — a minimal CRUX base system for ppc64
 - Architecture-specific port overlays:
   - [core-ppc64](https://github.com/sepen/crux-ports-core-ppc64) — base system ports adapted for ppc64
   - [opt-ppc64](https://github.com/sepen/crux-ports-opt-ppc64) — optional and userland software ports
