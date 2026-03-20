@@ -2,10 +2,13 @@
 
 **Bringing CRUX to PowerPC 64-bit (big-endian) systems**
 
-This project provides a root filesystem image and a set of port overlays to run the minimalist CRUX Linux
- distribution on PowerPC 64-bit big-endian (ppc64) hardware.
+This project provides a root filesystem image and a set of port overlays to run the minimalist [CRUX Linux](https://crux.nu) 
+distribution on PowerPC 64-bit big-endian (ppc64) hardware.
 
 It is intended for enthusiasts, developers, and users of POWER and PowerPC systems who want a clean, source-based Linux distribution.
+
+**Download the root filesystem:**  
+[crux-3.8-ppc64.rootfs.tar.xz](https://github.com/sepen/crux-ppc64/releases/download/3.8/crux-3.8-ppc64.rootfs.tar.xz)
 
 --- 
 
