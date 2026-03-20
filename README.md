@@ -68,19 +68,13 @@ CRUX-PPC64 stays aligned with CRUX principles: **simplicity, transparency, and c
 
 ## Toolchain Notes
 
-The system toolchain is rebuilt for consistency across all components:
-- binutils
-- glibc
-- gcc
-- core libraries
-
 All packages are compiled with unified flags targeting:
 - 64-bit PowerPC
 - Generic CPU baseline
 - ELFv1 ABI
 
 This ensures:
-- inary compatibility across systems
+- Binary compatibility across systems
 - Predictable behavior
 - Reduced risk of ABI or instruction mismatches
 
