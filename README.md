@@ -116,7 +116,7 @@ Overlay modifications and project-specific scripts are released under the **GPLv
 
 ---
 
-## Credits
+## Credits
 
 - [CRUX Linux Team](https://crux.nu/)
 - [CRUX-ARM Project](https://crux-arm.nu/) — inspiration for overlay design
